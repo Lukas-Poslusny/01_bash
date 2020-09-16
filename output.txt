@@ -1,0 +1,6 @@
+Zadej cislo/END: Zadej cislo/END: Zadej cislo/END: Zadej cislo/END: Zadej cislo/END: Zadej cislo/END: 
+
+Suma: 66
+Minimum: 1
+Maximum: 4
+Average: 16
